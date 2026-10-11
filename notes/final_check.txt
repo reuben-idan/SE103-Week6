@@ -1,0 +1,12 @@
+Student Name: Reuben Idan
+GitHub Username: reuben-idan
+Repository: SE103-Week6
+Repository URL: https://github.com/reuben-idan/SE103-Week6
+
+Git habits I demonstrated this week:
+I made small, focused commits with clear messages that describe exactly what changed and why. I used git status and git diff before every commit to inspect changes and avoid staging unintended files. I created a .gitignore to prevent secrets, logs, and temporary files from ever entering the repository. I created a dedicated branch for the README improvement and merged it through a pull request with a self-review. I kept each commit scoped to a single purpose so the history is easy to read and trace.
+
+One mistake-prevention habit I will keep:
+I will always run git status before staging and git diff before committing to confirm exactly what is going into each commit. This two-step check catches accidental file inclusions, leftover debug code, and sensitive data before they become part of the permanent history.
+
+All required files are on main: Yes
