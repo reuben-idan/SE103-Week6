@@ -1,0 +1,13 @@
+Student Name: Reuben Idan
+
+Patterns in my .gitignore:
+.DS_Store
+*.log
+temp/
+secret.env
+
+What git status showed about the ignored files:
+After creating secret.env, practice/app.log, and temp/temp_note.txt, I ran git status and none of those files appeared in the output. Only .gitignore itself was listed as an untracked file. This confirms that Git is correctly ignoring all three patterns. The ignored files exist locally but will never be staged or committed.
+
+Why committing secrets is dangerous:
+Committing secrets like API keys or passwords makes them permanently visible in the repository history, even if deleted later. Anyone with access to the repo can read them, including on public repositories where the entire internet can see them. Leaked credentials can be used to access paid services, databases, or private systems, causing financial and security damage. Many attackers actively scan GitHub for exposed keys using automated tools. Using .gitignore and environment variable managers is the correct way to keep secrets out of version control.
