@@ -1,0 +1,7 @@
+Student Name: Reuben Idan
+
+What I check before committing:
+Before committing I run git status to see which files have changed. I review the diff with git diff to make sure only intended changes are staged. I check that no sensitive files like .env or logs are accidentally included. I also confirm the commit message clearly describes what the change does and why.
+
+What I am committing now and why:
+I am committing status_notes.txt to document my inspect-before-commit habit. This keeps the commit focused on a single purpose and makes the history easier to follow.
