@@ -1,0 +1,5 @@
+Full Name: Reuben Idan
+GitHub Username: reuben-idan
+Date Started: 2025-07-10
+Auth Method: PAT
+One Git habit I want to improve: Writing clear, descriptive commit messages every time I commit.

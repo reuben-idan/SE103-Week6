@@ -1,2 +1,4 @@
 # SE103-Week6
-Stronger Git and GitHub Habits
+
+Student Name: Reuben Idan
+GitHub Username: reuben-idan
