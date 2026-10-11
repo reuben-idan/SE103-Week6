@@ -1,0 +1,10 @@
+Student Name: Reuben Idan
+
+Commit 1 purpose:
+document my small-commit plan
+
+Commit 2 purpose:
+record my inspect-before-commit habit
+
+Why smaller commits are better than one giant commit:
+Smaller commits make it easier to understand what changed and why. If a bug is introduced, you can pinpoint exactly which commit caused it. Reverting a small commit is much safer than undoing a large one. Reviewing small commits is faster and less error-prone for collaborators. It also keeps the project history clean and readable over time.
