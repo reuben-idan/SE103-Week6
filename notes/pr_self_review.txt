@@ -1,0 +1,13 @@
+Student Name: Reuben Idan
+
+What changed:
+I added a "How I use Git carefully" section to README.md with four personal Git habits. The habits cover commit messages, pre-commit inspection, .gitignore usage, and branching with pull requests. This makes the README more informative and demonstrates the skills practiced this week.
+
+How I verified the change:
+I opened README.md and confirmed the new section appears below the identity lines. I ran git diff to review exactly what lines were added before staging. I also ran git status to confirm no unintended files were included in the commit.
+
+One possible improvement a reviewer might suggest:
+A reviewer might suggest expanding each habit with a brief explanation of why it matters, rather than just stating the habit. This would make the README more educational for someone reading it for the first time.
+
+Professional response I would give:
+That's a great point. I could add a short sentence after each habit explaining the benefit. I'll make that update in a follow-up commit to keep this PR focused on the initial habits section.
