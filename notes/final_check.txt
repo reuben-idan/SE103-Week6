@@ -1,6 +1,6 @@
 Student Name: Reuben Idan
 GitHub Username: reuben-idan
-Repository: SE103-Week6
+Repository: SE111093805231093803-Week6
 Repository URL: https://github.com/reuben-idan/SE103-Week6
 
 Git habits I demonstrated this week:
