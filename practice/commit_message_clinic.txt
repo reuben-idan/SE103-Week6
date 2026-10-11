@@ -1,0 +1,22 @@
+Student Name: Reuben Idan
+
+Weak message 1: updates
+Improved message 1:
+update user profile validation to reject empty names
+Why this is better:
+It tells exactly what was changed and where, so anyone reading the history knows the purpose without opening the diff.
+
+Weak message 2: final final
+Improved message 2:
+finalize homepage layout for mobile responsiveness
+Why this is better:
+It describes what was finalized and why, removing the vague and unprofessional tone of "final final".
+
+Weak message 3: stuff
+Improved message 3:
+add error handling for failed API requests in checkout
+Why this is better:
+It specifies what was added and in which part of the codebase, making the commit traceable and meaningful.
+
+My personal commit message rule:
+Every commit message I write must answer "what changed and why" in one clear sentence. I use the imperative mood (add, fix, update) and keep it under 72 characters. I never use vague words like "stuff", "fix", or "changes" on their own. If the change needs more context, I add a short body below the subject line.
